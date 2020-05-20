@@ -1,0 +1,760 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <section id="navigation">
+            <nav>
+                <div>
+                    <img class="logo" src="images/finallogo.png">
+                </div>
+                
+                <div class="nav-items">
+                        <a href="home.html">Home</a>
+                  
+                        <a href="about.html">About</a>
+                
+                        <a href="trailer.html">Trailer</a>
+               
+                        <a href="filmmakers.html">Filmmakers</a>
+                  
+                        <a href="news.html">News</a>
+                
+                        <a href="donate.html">Donate</a>
+                </div>
+            </nav>
+    </section>
+
+    
+   <section id="synopsis">
+      <div>
+               <h2>About</h2>
+        <p5>  Synopsis:
+            GET YOUR 10s explores vogue femme as an expanding global phenomenon through the work of an acclaimed black queer interdisciplinary artist. As he travels to France, Japan, Brazil and South Africa, Rashaad Newsome collaborates with queer practitioners who combine vogue with their local dance forms, culminating in a large-scale performance in a major American museum. As it traces the lives of cutting-edge performers, the film unearths complexities of race, sexuality, gender, globalization and cultural appropriation. </p5>
+    </div>
+    <div>
+        <img class="bts"
+        src="images/bts.png">
+       </div>
+    </section>
+    <br>
+    <hr>
+    
+       <section id="footer">
+            <div class="social">
+                <a href="http://www.twitter.com/">
+                    <img src="images/twitter.png">
+                </a>
+                <a href="http://www.instagram.com/">
+                    <img src="images/instagram.png">
+                </a>
+               <a href="http://www.facebook.com/">
+                    <img src="images/facebook.png">
+                </a>
+                <a href="http://www.gmail.com/">
+                    <img src="images/email.png">
+                </a>
+           </div>
+    
+            <div class="sponsors">
+                <img src="images/bavc.png">
+                <img src="images/columbia.png">
+                <img src="images/williampenn.png">
+            </div> 
+    </section>
+</body>
+</html>  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <section id="navigation">
+            <nav>
+                <div>
+                    <img class="logo" src="images/finallogo.png">
+                </div>
+                
+                <div class="nav-items">
+                        <a href="home.html">Home</a>
+                  
+                        <a href="about.html">About</a>
+                
+                        <a href="trailer.html">Trailer</a>
+               
+                        <a href="filmmakers.html">Filmmakers</a>
+                  
+                        <a href="news.html">News</a>
+                
+                        <a href="donate.html">Donate</a>
+                </div>
+            </nav>
+    </section>
+    
+    
+    <section id="donatepage">
+      <div>
+               <h2>Thank You for Your Donation!</h2>
+        <img class="donate"
+        src="images/donate.png">
+       </div>
+    </section>
+          <br>
+          <hr>
+
+          <section id="footer">
+            <div class="social">
+                <a href="http://www.twitter.com/">
+                    <img src="images/twitter.png">
+                </a>
+                <a href="http://www.instagram.com/">
+                    <img src="images/instagram.png">
+                </a>
+               <a href="http://www.facebook.com/">
+                    <img src="images/facebook.png">
+                </a>
+                <a href="http://www.gmail.com/">
+                    <img src="images/email.png">
+                </a>
+           </div>
+    
+            <div class="sponsors">
+                <img src="images/bavc.png">
+                <img src="images/columbia.png">
+                <img src="images/williampenn.png">
+            </div> 
+    </section>
+</body>
+</html>  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <section id="navigation">
+            <nav>
+                <div>
+                    <img class="logo" src="images/finallogo.png">
+                </div>
+                
+                <div class="nav-items">
+                        <a href="home.html">Home</a>
+                  
+                        <a href="about.html">About</a>
+                
+                        <a href="trailer.html">Trailer</a>
+               
+                        <a href="filmmakers.html">Filmmakers</a>
+                  
+                        <a href="news.html">News</a>
+                
+                        <a href="donate.html">Donate</a>
+                </div>
+            </nav>
+    </section>
+
+    <section id="rashaad">
+      <div>
+               <h2>Filmmakers</h2>
+          <h1><b>Rashaad Newsome</b></h1> <i>Director</i> <br><br><p6> Rashaad Newsome is a NYC-based multidisciplinary artist whose work blends several practices—including collage, sculpture, film, music, computer programming, and performance—to form an altogether new field. Using the diasporic tradition of improvisation, he crafts compositions that speak of and to Black and Queer culture and walk the tightrope between intersectionality, social practice and abstraction. Newsome was born in New Orleans and received a BFA in Art History from Tulane University. He has exhibited and performed in museums, institutions, and festivals internationally including The Studio Museum in Harlem, The National Museum of African American History and Culture, The Whitney Museum, and the Centre Georges Pompidou. Newsome has created 12 films which have been acquired by numerous institutions including the Los Angeles County Museum of Art and SFMOMA. His many honors include a 2019 LACMA Art and Technology Grant, a 2019 BAVC MediaMaker Fellowship, and a 2018 William Penn Foundation Grant. </p6>
+    </div>
+    <div>
+        <img class="rashaad"
+        src="images/RashaadPic.png">
+       </div>
+    </section>
+    
+    <section id="johnny">
+      <div>
+        <h1><b>Johnny Symons</b></h1> <i>Director/Producer</i> <br><br><p6>  Johnny Symons (Director/Producer) is an Emmy-nominated filmmaker with 25 years experience creating award-winning LGBTQ documentaries. His film DADDY and PAPA (2002) was nominated for the Sundance Grand Jury Prize, aired on PBS’ Independent Lens and garnered 12 festival awards. His other feature documentaries include BEYOND CONCEPTION (2006, Discovery Channel), ASK NOT (2008, PBS/Independent Lens) and OUT RUN (2016, Full Frame Premiere, PBS/DocWorld). He is co-producer of the Academy Award-nominated LONG NIGHT’S JOURNEY INTO DAY (2000, HBO, Sundance Grand Jury Prize). Symons’ work has screened in 300+ international film festivals and for Congress at the US Capitol. He has been a Fellow at the Sundance Institute’s Documentary Film Program, and received support from ITVS, IFP/HBO, Catapult, Sundance, and Tribeca. Symons graduated with honors from Brown University and has a master’s in documentary production from Stanford. He is Associate Professor and Coordinator of the Documentary Program at San Francisco State University. </p6>
+    </div>
+    <div>
+        <img class="johnny"
+        src="images/JohnnyPic.png">
+       </div>
+    </section>
+    <hr>
+
+        <section id="footer">
+            <div class="social">
+                <a href="http://www.twitter.com/">
+                    <img src="images/twitter.png">
+                </a>
+                <a href="http://www.instagram.com/">
+                    <img src="images/instagram.png">
+                </a>
+               <a href="http://www.facebook.com/">
+                    <img src="images/facebook.png">
+                </a>
+                <a href="http://www.gmail.com/">
+                    <img src="images/email.png">
+                </a>
+           </div>
+    
+            <div class="sponsors">
+                <img src="images/bavc.png">
+                <img src="images/columbia.png">
+                <img src="images/williampenn.png">
+            </div> 
+    </section>
+    </div>
+</body>
+</html>  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <section id="navigation">
+            <nav>
+                <div>
+                    <img class="logo" src="images/finallogo.png">
+                </div>
+                
+                <div class="nav-items">
+                        <a href="home.html">Home</a>
+                  
+                        <a href="about.html">About</a>
+                
+                        <a href="trailer.html">Trailer</a>
+               
+                        <a href="filmmakers.html">Filmmakers</a>
+                  
+                        <a href="news.html">News</a>
+                
+                        <a href="donate.html">Donate</a>
+                </div>
+            </nav>
+    </section>
+    
+    <section id="Home">
+        <div>
+            <header>
+                <img class="still"
+                    img src="images/still.png"> 
+            </header>
+        </div>
+    </section>
+    <br>
+    <hr>
+    
+
+        <section id="footer">
+            <div class="social">
+                <a href="http://www.twitter.com/">
+                    <img src="images/twitter.png">
+                </a>
+                <a href="http://www.instagram.com/">
+                    <img src="images/instagram.png">
+                </a>
+               <a href="http://www.facebook.com/">
+                    <img src="images/facebook.png">
+                </a>
+                <a href="http://www.gmail.com/">
+                    <img src="images/email.png">
+                </a>
+           </div>
+    
+            <div class="sponsors">
+                <img src="images/bavc.png">
+                <img src="images/columbia.png">
+                <img src="images/williampenn.png">
+            </div> 
+    </section>
+</body>
+</html>   
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <section id="navigation">
+            <nav>
+                <div>
+                    <img class="logo" src="images/finallogo.png">
+                </div>
+                
+                <div class="nav-items">
+                        <a href="home.html">Home</a>
+                  
+                        <a href="about.html">About</a>
+                
+                        <a href="trailer.html">Trailer</a>
+               
+                        <a href="filmmakers.html">Filmmakers</a>
+                  
+                        <a href="news.html">News</a>
+                
+                        <a href="donate.html">Donate</a>
+                </div>
+            </nav>
+    </section>
+  
+    
+    
+    <section id="newsfeed">
+            <header>
+                <div class="insta">
+                    <h1>Instagram</h1>
+                         
+                </div>  
+                <div class="news">
+                    <h1> News </h1>
+                    
+                </div>  
+            </header>
+        </section>
+        <br>
+        <hr>
+    
+        <section id="footer">
+            <div class="social">
+                <a href="http://www.twitter.com/">
+                    <img src="images/twitter.png">
+                </a>
+                <a href="http://www.instagram.com/">
+                    <img src="images/instagram.png">
+                </a>
+               <a href="http://www.facebook.com/">
+                    <img src="images/facebook.png">
+                </a>
+                <a href="http://www.gmail.com/">
+                    <img src="images/email.png">
+                </a>
+           </div>
+    
+            <div class="sponsors">
+                <img src="images/bavc.png">
+                <img src="images/columbia.png">
+                <img src="images/williampenn.png">
+            </div> 
+    </section>
+</body>
+</html>   
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #FFBE5E;
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1500px;
+}
+
+
+@media only screen and (max-width: 600) {}
+
+/* Nativgation */
+#navigation {
+    background: #FFBE5E;
+    box-shadow: 0px 8px 24px rgba (0, 0, 0, 0.1);
+    width: 100%;
+
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    text-align: center;
+    padding: 0 0 0 10%;
+}
+
+nav .nav-items {
+    display: flex;
+    justify-content: space-around;
+    width: 85%;
+    padding: 3% 6% 3% 0;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    width: 55%;
+}
+
+
+.nav-items a {
+    color: #000000;
+    font-family: sans-serif;
+    font-style: normal;
+}
+
+.nav-items a {
+    text-decoration: none;
+    position: relative;
+    color: #313131;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    display: block;
+    overflow: hidden;
+    transition: 0.9s all;
+    padding: 14px padding: 3Opx;
+    text-transform: uppercase;
+}
+
+.nav-items a:before {
+    content: '';
+    width: 60px;
+    position: absolute;
+    border-bottom: 3px solid #313131;
+    bottom: 0;
+    right: 350px;
+    transition: 0.4s all;
+}
+
+.nav-items a:hover:before {
+    right: 0;
+}
+
+
+
+/* Home */
+header .still {
+    width: 100%
+}
+
+
+.still img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+
+
+/* About Page */
+#synopsis {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+#synopsis div {
+    box-sizing: border-box;
+    width: 48%;
+    margin top: 45px;
+}
+
+#synopsis h2 {
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 30px
+}
+
+.bts {
+    margin-top: 25px;
+    width: 95%;
+}
+
+
+
+/* Filmmakers Page */
+#rashaad {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start
+}
+
+#rashaad div {
+    box-sizing: border-box;
+    width: 48%;
+    margin top: 45px;
+    margin-bottom: 90px;
+}
+
+#rashaad h2 {
+    margin: 0;
+    margin-bottom: 25px;
+    font-size: 30px;
+}
+
+.rashaad {
+    margin-top: 25px;
+    width: 50%;
+}
+
+#johnny {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start
+}
+
+#johnny div {
+    box-sizing: border-box;
+    width: 48%;
+    margin top: 45px;
+    margin-bottom: 90px;
+}
+
+#johnny h2 {
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 30px;
+}
+
+.johnny {
+    width: 50%;
+}
+
+
+
+/* News Page */
+#newsfeed {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.insta {
+    width: 100%;
+    margin: auto;
+    padding: 2%;
+    overflow: hidden;
+    text-align: center;
+    padding-bottom: 20%;
+}
+
+.news {
+    width: 100%;
+    margin: auto;
+    padding: 2%;
+    overflow: hidden;
+    text-align: center;
+}
+
+
+
+/* Donate Page */
+#donatepage {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+#donatepage div {
+    box-sizing: border-box;
+    width: 48%;
+}
+
+#donatepage h2 {
+    text-align: center;
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 30px
+}
+
+.donate {
+    width: 100%;
+    justify-content: center;
+}
+
+
+
+/* Trailer Page */
+#trailer {
+    align-content: center;
+    width: 100%;
+    height: 500px;
+    margin top: 45px;
+    margin-bottom: 10%;
+}
+
+.video {
+    width: 100%;
+    height: 100%;
+}
+
+#trailer h3 {
+    margin: 0;
+    margin-bottom: 10px;
+    font-size: 30px
+}
+
+join audio
+
+/* Ne: ;ws Page */
+h5 {
+    font-family: sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+
+
+/* Footer Styling */
+#footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-top: 5%;
+}
+
+#footer .social {
+    display: flex;
+    width: 27%;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.social img {
+    width: 85%;
+    margin: 0 5% 0 5%;
+}
+
+#footer .sponsors {
+    display: flex;
+    flex-direction: column;
+    margin: 0 5% 0 5%;
+    width: 40%;
+    max-width: 200px
+}
+
+.sponsors img {
+    width: 100%;
+    margin: 7%;
+}
+hr{
+    height:2px;
+    border-width:0;
+    color:black;
+    background-color:black;
+}
+
+
+
+/* Media */
+@media only screen and (max-width:1000px) {
+    nav {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav .logo {
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: 19%;
+        margin-right: 30%;
+
+    }
+
+    .nav-items {
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        height: 400px;
+        margin: 0;
+    }
+
+    #footer {
+        flex-direction: column;
+    }
+
+    .nav-items a:before {
+        display: none;
+    }
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <link rel="stylesheet" href="style.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <section id="navigation">
+            <nav>
+                <div>
+                    <img class="logo" src="images/finallogo.png">
+                </div>
+                
+                <div class="nav-items">
+                        <a href="home.html">Home</a>
+                  
+                        <a href="about.html">About</a>
+                
+                        <a href="trailer.html">Trailer</a>
+               
+                        <a href="filmmakers.html">Filmmakers</a>
+                  
+                        <a href="news.html">News</a>
+                
+                        <a href="donate.html">Donate</a>
+                </div>
+            </nav>
+    </section>
+    
+    
+
+   <section id="trailer">
+             <h3>Trailer</h3>
+                 <div class="video">
+                    <!-- <iframe  src="https://www.youtube.com/embed/q9X_TnFQsmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe> -->
+                    
+                    <iframe width="100%" height="100%" src="https://www.youtube.com/embed/q9X_TnFQsmI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+    </section>
+    <br>
+    <hr>
+       
+
+        
+        
+      <section id="footer" style="margin-top: 15px">
+            <div class="social">
+                <a href="http://www.twitter.com/">
+                    <img src="images/twitter.png">
+                </a>
+                <a href="http://www.instagram.com/">
+                    <img src="images/instagram.png">
+                </a>
+               <a href="http://www.facebook.com/">
+                    <img src="images/facebook.png">
+                </a>
+                <a href="http://www.gmail.com/">
+                    <img src="images/email.png">
+                </a>
+           </div>
+    
+            <div class="sponsors">
+                <img src="images/bavc.png">
+                <img src="images/columbia.png">
+                <img src="images/williampenn.png">
+            </div> 
+    </section>
+</body>
+</html>  
